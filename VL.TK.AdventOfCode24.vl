@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:p="property" xmlns:r="reflection" Id="MdzBw4aGuGqMIWsJ0QitEm" LanguageVersion="2024.6.6" Version="0.128">
+  <NugetDependency Id="Dg7JH8L9BsYOvZgtxBTe6w" Location="VL.CoreLib" Version="2024.6.6" />
+  <Patch Id="PqTgCcG39TNQdT9TiGuj2f">
+    <Canvas Id="CKGpisE2n8XPSvEnGxXbpz" DefaultCategory="Main" BordersChecked="false" CanvasType="FullCategory" />
+    <!--
+
+    ************************ Application ************************
+
+-->
+    <Node Name="Application" Bounds="100,100" Id="D4X4hB8xNoSQcyTgAvl3xe">
+      <p:NodeReference>
+        <Choice Kind="ContainerDefinition" Name="Process" />
+        <CategoryReference Kind="Category" Name="Primitive" />
+      </p:NodeReference>
+      <Patch Id="JHcF9cN68dTNi6RI9if2uV">
+        <Canvas Id="EF8brzjB7V5M5bAVULmn90" CanvasType="Group">
+          <Pad Id="PuQEF7Hc3hDLfyGi7orxIZ" Bounds="91,63,226,19" ShowValueBox="true" isIOBox="true" Value="Nothing here, check the helppatches">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">9</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+        </Canvas>
+        <Patch Id="NPYTh5y3xvSLeep1iNqnnA" Name="Create" />
+        <Patch Id="IFQXs5p8MlMMb72wxzgh7X" Name="Update" />
+        <ProcessDefinition Id="ANF2Ed0u6l9MZ6cfqe42KO">
+          <Fragment Id="BFKqRnD8wooNwVOzCCpMOG" Patch="NPYTh5y3xvSLeep1iNqnnA" Enabled="true" />
+          <Fragment Id="RiiZ806jh2mPhUieu7fQQ9" Patch="IFQXs5p8MlMMb72wxzgh7X" Enabled="true" />
+        </ProcessDefinition>
+      </Patch>
+    </Node>
+  </Patch>
+</Document>

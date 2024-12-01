@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>VL.TK.AdventOfCode24</id>
+    <version>0.0.1</version>
+    <title>VL.TK.AdventOfCode24</title>
+    <authors>TobyKLight</authors>
+    <owners>TobyKLight</owners>
+    <projectUrl>https://github.com/TobyKLight/VL.TK.AdventOfCode24</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Solutions to AdventOfCode24 in vvvv gamma</summary>
+    <description>See TobyKLight youtube for explanations</description>
+    <tags>VL, vvvv, advent of code 2024</tags>
+	<license type="expression">CC0-1.0</license>
+	<dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\*.vl" target="" exclude="" />
+    <file src="..\help\**" target="help\" exclude="" />
+  </files>
+</package>

@@ -352,7 +352,52 @@
             </p:ValueBoxSettings>
           </Pad>
           <Pad Id="VHEdXafPoE7L5xFFPHbdm0" SlotId="CVRDQL9t9X5Obc0MDCHlGW" Bounds="714,409" />
-          <Pad Id="V3RxTsQuMgIPoNeUTDXvTT" Comment="" Bounds="546,1519,35,15" ShowValueBox="true" isIOBox="true" />
+          <Pad Id="V3RxTsQuMgIPoNeUTDXvTT" Comment="" Bounds="546,1519,134,15" ShowValueBox="true" isIOBox="true" />
+          <Pad Id="N7oK9y6sVn9NaI8IIQZnhX" Bounds="1217,145,248,47" ShowValueBox="true" isIOBox="true" Value="Advent of Code 2024">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="HqKWzySCQKGOcqvBbJCmZ8" Name="" Bounds="1225,138,270,80">
+            <p:ColorIndex p:Type="Int32">4</p:ColorIndex>
+          </Overlay>
+          <Overlay Id="D7BjTN959TSOIq6lnwHzbJ" Name="" Bounds="1241,198,268,84">
+            <p:ColorIndex p:Type="Int32">9</p:ColorIndex>
+          </Overlay>
+          <Pad Id="APrw15PLm9vNVnhPYcwQNa" Bounds="1234,206,99,35" ShowValueBox="true" isIOBox="true" Value="Day 1">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="J0CZPgvHG6kPD1EsHBc567" Bounds="1223,176,152,25" ShowValueBox="true" isIOBox="true" Value="in vvvv gamma">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="O9IfHc57CPjPAeVnCJ6yIs" Bounds="1247,239,239,47" ShowValueBox="true" isIOBox="true" Value="Spread iteration, sorting, hashset, dictionary">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="LC0q2qLkjpAOn3zoD0j985" Name="" Bounds="1226,138,283,163">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
         </Canvas>
         <Patch Id="AdwtAxExZsfOrZuqBxINXM" Name="Create" />
         <Patch Id="O7YsUTnNqpPOrjqiKubMbN" Name="Update" />
@@ -374,7 +419,6 @@
         <Link Id="QWZ4aNesAH3NqpuwuGF8wm" Ids="UC8NLNzkjMhMRY4qTxe2kB,GH22xVlTYS5LThnPXAF6Dn" />
         <Link Id="AYcjhf7EaBuNFN1PhoSqMw" Ids="CJgGnjvXJz5LGZj7y8DeiY,Vry7Lg3frH2LKrSiL9oxAT" />
         <Link Id="KSKud1bInTILlUHseLjEvW" Ids="DbMrUyCSkYUO2NyhPybRW7,D0UCTQK9c7WLbGYaGqBT8E" />
-        <Link Id="GIy1dJGjrC3OuIGgrf6Os0" Ids="JleO9eJd6ZoO9Wa0Jl3vhP,CJgGnjvXJz5LGZj7y8DeiY" />
         <Link Id="Uhfg292XdqjPn8TKEaflXj" Ids="SQcssOLYj38PQG1TswQpgN,A7lTEufwtSOL5MLVZzW1ac" />
         <Link Id="QqgVwZtnxrgPeZfNBP7avi" Ids="GH22xVlTYS5LThnPXAF6Dn,HrvcTE5YKhKNKpTqfmgMro" />
         <Slot Id="CVRDQL9t9X5Obc0MDCHlGW" Name="DB" />
@@ -418,6 +462,7 @@
         <Link Id="MUZWj5Y52dXOOfepPEtm7L" Ids="GhtTT8PWpbVNRhueXan6tZ,F4nILb7BiLIPDZ7cFMN7eP" />
         <Link Id="DEBMiGaJg0bLxGfzYIJpwJ" Ids="IAX4BhXlzZDO60VNkNfAHY,PF4knaLqGFVLElQDLzQtEv" />
         <Link Id="Mf4bNRE9j0zQJAtyH2ZmaI" Ids="OgWuR4Tz9B3MksJwSsjfff,CACWG4UF2kZNpQMbHJA9sF" />
+        <Link Id="KLqmAaw6igRPGz1UvwIwNZ" Ids="DrEKWCI9Z15Nm2B4HXCwJh,CJgGnjvXJz5LGZj7y8DeiY" />
       </Patch>
     </Node>
   </Patch>
