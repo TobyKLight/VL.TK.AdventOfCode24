@@ -20,7 +20,7 @@
               <Choice Kind="ImmutableTypeFlag" Name="String" />
             </p:TypeAnnotation>
           </Pad>
-          <Node Bounds="121,247,530,1251" Id="FdrWHLQ0jYzOTDwagwTSHq">
+          <Node Bounds="121,247,531,1251" Id="FdrWHLQ0jYzOTDwagwTSHq">
             <p:NodeReference LastCategoryFullName="Primitive" LastDependency="Builtin">
               <Choice Kind="StatefulRegion" Name="Region (Stateful)" Fixed="true" />
               <CategoryReference Kind="Category" Name="Primitive" />
