@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.TK.AdventOfCode24</id>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <title>VL.TK.AdventOfCode24</title>
     <authors>TobyKLight</authors>
     <owners>TobyKLight</owners>
