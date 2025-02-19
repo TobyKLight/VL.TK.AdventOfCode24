@@ -1973,6 +1973,51 @@
           <Pad Id="V5bBTrbWuC3ONvbuKaM1JQ" Comment="Sum" Bounds="301,370,100,15" ShowValueBox="true" isIOBox="true" />
           <Overlay Id="BtrAAzVyTwALfGlcpTjSAT" Name="Was each file moved?" Bounds="643,777,544,547" />
           <Overlay Id="GlAJnuUsUfSLWG0ygsizc3" Name="Free space groups" Bounds="250,840,261,517" />
+          <Pad Id="GkdIxDe8k9KMg6Y46w9nBf" Bounds="1174,78,248,47" ShowValueBox="true" isIOBox="true" Value="Advent of Code 2024">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="J0vnkzPm2CUOYh2KHTS7Jk" Name="" Bounds="1182,71,270,80">
+            <p:ColorIndex p:Type="Int32">4</p:ColorIndex>
+          </Overlay>
+          <Overlay Id="QsAcp2UZrTIQahq7ViIqtj" Name="" Bounds="1198,131,268,84">
+            <p:ColorIndex p:Type="Int32">9</p:ColorIndex>
+          </Overlay>
+          <Pad Id="NYjz7cSG80WMMMDwW67gOW" Bounds="1191,139,99,35" ShowValueBox="true" isIOBox="true" Value="Day 9">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="CKcsHyMfafZM5rnhDk84LB" Bounds="1180,109,152,25" ShowValueBox="true" isIOBox="true" Value="in vvvv gamma">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="AvIPoz46dxlQYqdkZC3sk9" Bounds="1204,172,239,51" ShowValueBox="true" isIOBox="true" Value="Swapping array elements,&#xD;&#xA;MutableSortedList">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="GcpGi4MwhMhOLNJCw7JYMv" Name="" Bounds="1183,71,283,163">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
         </Canvas>
         <Patch Id="Ne9MQ7FuOz8LYVBeRQv1O8" Name="Create" ParticipatingElements="RwiW8iP1KAYOKudPdpuskv" />
         <Patch Id="Dhp5HyY5d2PLqc3ySPEedX" Name="Update" />

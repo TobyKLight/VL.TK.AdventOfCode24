@@ -1253,6 +1253,51 @@
               <p:buttonmode p:Assembly="VL.UI.Forms" p:Type="VL.HDE.PatchEditor.Editors.ButtonModeEnum">Bang</p:buttonmode>
             </p:ValueBoxSettings>
           </Pad>
+          <Pad Id="J4jFalISpqqPA7B7wptVJ1" Bounds="1680,83,248,47" ShowValueBox="true" isIOBox="true" Value="Advent of Code 2024">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="Rd6dXEWAIlPL1HdIf5nZIJ" Name="" Bounds="1688,76,270,80">
+            <p:ColorIndex p:Type="Int32">4</p:ColorIndex>
+          </Overlay>
+          <Overlay Id="NG0oDLGXtKhMmQXB8bP3wZ" Name="" Bounds="1704,136,268,84">
+            <p:ColorIndex p:Type="Int32">9</p:ColorIndex>
+          </Overlay>
+          <Pad Id="L2kLORn9Mj7PCuarKVk7jI" Bounds="1697,144,99,35" ShowValueBox="true" isIOBox="true" Value="Day 7">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="P3ghQEIBM4XN3uEXgwFqnq" Bounds="1686,114,152,25" ShowValueBox="true" isIOBox="true" Value="in vvvv gamma">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="QZk6CD0qN92LSrgjZ2L70U" Bounds="1710,177,239,51" ShowValueBox="true" isIOBox="true" Value="Brute forcing every combo,&#xD;&#xA;Math concat">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="K74BW1lSo3xLbvX75e8uUK" Name="" Bounds="1689,76,283,163">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
         </Canvas>
         <Patch Id="GKqTg34k071LFmTslog7mZ" Name="Create" />
         <Patch Id="EMinnO3QILHLJasjfEJm4e" Name="Update" />

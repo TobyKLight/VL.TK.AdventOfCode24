@@ -2497,6 +2497,51 @@
               <Choice Kind="ImmutableTypeFlag" Name="String" />
             </p:TypeAnnotation>
           </Pad>
+          <Pad Id="LsehyQB9X0yMpI3PwuADcL" Bounds="826,61,248,47" ShowValueBox="true" isIOBox="true" Value="Advent of Code 2024">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="TcGYrmGJ6Z5OvxcXHsE1Y3" Name="" Bounds="834,54,270,80">
+            <p:ColorIndex p:Type="Int32">4</p:ColorIndex>
+          </Overlay>
+          <Overlay Id="GGv4m2BMYOUQCNm0aq9SQ0" Name="" Bounds="850,114,268,84">
+            <p:ColorIndex p:Type="Int32">9</p:ColorIndex>
+          </Overlay>
+          <Pad Id="JcF8JoFdLB8QcQaHUaHkzB" Bounds="843,122,99,35" ShowValueBox="true" isIOBox="true" Value="Day 10">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">17</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="GbjFvBX1PyAMS9lSa8XMvx" Bounds="832,92,152,25" ShowValueBox="true" isIOBox="true" Value="in vvvv gamma">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Pad Id="RbY0FpEndj5M1JeuP16O8p" Bounds="856,155,239,51" ShowValueBox="true" isIOBox="true" Value=" An agent that can spawn new agents">
+            <p:TypeAnnotation LastCategoryFullName="Primitive" LastDependency="VL.CoreLib.vl">
+              <Choice Kind="TypeFlag" Name="String" />
+            </p:TypeAnnotation>
+            <p:ValueBoxSettings>
+              <p:fontsize p:Type="Int32">12</p:fontsize>
+              <p:stringtype p:Assembly="VL.Core" p:Type="VL.Core.StringType">Comment</p:stringtype>
+            </p:ValueBoxSettings>
+          </Pad>
+          <Overlay Id="JE3Jqax1j8RMDEePizJJPV" Name="" Bounds="835,54,283,163">
+            <p:ColorIndex p:Type="Int32">11</p:ColorIndex>
+          </Overlay>
         </Canvas>
         <Patch Id="OTnMcaxMCTvNHVNm8xoi3J" Name="Create" ParticipatingElements="SC4mnjRTcMWPsKm82LcG2q" />
         <Patch Id="EIEAFkS3r3dOgnyGjFXis2" Name="Update" />
